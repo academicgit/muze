@@ -6,7 +6,12 @@
 
 ## Live Preview
 Preview is available at the links below : <br>
-[saavn-web-ui.vercel.app](https://saavn-web-ui.vercel.app/)<br>
+[Github](https://academicgit.github.io/Muze)<br>
+[Vercel](https://muze-teal.vercel.app/)<br>
+[Fastly](https://muze.global.ssl.fastly.net/)<br>
+[Neko](https://muze.nekoweb.org/)<br>
+[W3](https://muzemusic.w3spaces.com/)
+
 
 ## Details
 > Status : `In Development`<br>
